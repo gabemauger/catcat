@@ -9,15 +9,15 @@ ref: https://www.lexaloffle.com/bbs/?tid=3948
 license: cc4-by-nc-sa : https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 changes:
--ship, enemy, and bullet sprites changed
--ship.h reduced from 4 to 1
--removed health spawns/sprites
--removed stars
--adjusted bullet box-collider
--new enemy sprite concept sketch
+ship, enemy, and bullet sprites changed
+ship.h reduced from 4 to 1
+removed health spawns/sprites
+removed stars
+adjusted bullet box-collider
+new enemy sprite concept sketch
 
 future changes:
--enemy flight pattern/movement
--fixed ship fire rate
--enemy health implemented
--multiple enemy designs
+enemy flight pattern/movement
+fixed ship fire rate
+enemy health implemented
+multiple enemy designs

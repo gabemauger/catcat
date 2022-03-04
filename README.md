@@ -5,7 +5,9 @@ DeadNet
 v0.2 update:
 
 Added shooter--
+
 ref: https://www.lexaloffle.com/bbs/?tid=3948
+
 license: cc4-by-nc-sa : https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 changes:

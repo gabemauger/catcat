@@ -1,6 +1,10 @@
 # CatCat
 CS 477 Digital Game Design Class Project(s)
 Kepland
+Controls:
+- Arrow Keys - move
+- X - interact
+- C - shoot
 
 v1.1 update:
 Current functioning version of Kepland (previously Deadnet) available to play.

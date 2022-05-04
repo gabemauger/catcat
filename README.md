@@ -1,6 +1,13 @@
 # CatCat
 CS 477 Digital Game Design Class Project(s)
-DeadNet
+Kepland
+
+v1.1 update:
+Current functioning version of Kepland (previously Deadnet) available to play.
+How to run:
+- Download most current zip file (dun_craw_v1_1.bin.zip)
+- Navigate to version of game you wish to play (Windows, Linux, OSX, Raspi)
+- Run game! Hardware isn't necessary, you can run it on a potato.
 
 v0.2 update:
 
